@@ -51,15 +51,6 @@ li.here a {
     text-decoration: none;
 }
 
-button:hover {
-    color: #fff7f1;
-    background-color: #3d3a37;
-}
-
-button:active {
-    border: solid 1px #fff7f1;
-}
-
 h1 {
     text-align: center;
     margin: 10px;
@@ -98,7 +89,7 @@ p.butt {
     text-align: center;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
     li.top a {
         display: none;
     }
@@ -112,10 +103,16 @@ p.butt {
     }
 
     li.sanw a {
+        display: block;
         font-size: 20px;
         color: #fff7f1;
         margin: 5px;
-        float: right;
+        float: left;
         text-decoration: none;
+    }
+
+    li.sanw a:hover {
+        color: #3d3a37;
+        background-color: #fff7f1;
     }
 }
