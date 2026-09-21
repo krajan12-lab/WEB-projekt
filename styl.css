@@ -1,0 +1,99 @@
+body {
+    color: #3d3a37;
+    background-color: #fff7f1;
+    font-family: "Nirmala UI";
+}
+
+ul.top {
+    list-style-type:none;
+    overflow: hidden;
+    background-color: #3d3a37;
+    padding: 0;
+    margin: 0;
+}
+
+li.top a {
+    font-size: 20px;
+    color: #fff7f1;
+    margin: 5px;
+    float: left;
+    text-decoration: none;
+}
+
+li.top a:hover {
+    color: #3d3a37;
+    background-color: #fff7f1;
+}
+
+li.sign a {
+    font-size: 20px;
+    color: #fff7f1;
+    margin: 5px;
+    float: right;
+    text-decoration: none;
+}
+
+li.sign a:hover {
+    color: #3d3a37;
+    background-color: #fff7f1;
+}
+
+li.here a {
+    font-size: 20px;
+    color: #3d3a37;
+    background-color: #fff7f1;
+    margin: 5px;
+    float: left;
+    text-decoration: none;
+}
+
+button:hover {
+    color: #fff7f1;
+    background-color: #3d3a37;
+}
+
+button:active {
+    border: solid 1px #fff7f1;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    font-size: 36px;
+}
+
+div.con {
+    width: 80%;
+    margin-left: 10%;
+}
+
+div.card p {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+a {
+    color: #3d3a37;
+}
+
+a:hover {
+    color: #fff7f1;
+    background-color: #3d3a37;
+}
+
+hr {
+    border: solid 1px #3d3a37;
+    width: 70%;
+}
+
+p.butt {
+    text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+
+}
