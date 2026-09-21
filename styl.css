@@ -8,6 +8,19 @@ li.sanw {
     display: none;
 }
 
+li.sanw:hover div.drop{
+    display: block;
+}
+
+div.drop {
+    display: none;
+    color: #fff7f1;
+    text-decoration: none;
+    z-index: 1;
+    position: absolute;
+    background-color: #f9f9f9;
+}
+
 ul.top {
     list-style-type:none;
     overflow: hidden;
@@ -89,16 +102,12 @@ p.butt {
     text-align: center;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
     li.top a {
         display: none;
     }
 
     li.here a {
-        display: none;
-    }
-
-    li.sign a {
         display: none;
     }
 
