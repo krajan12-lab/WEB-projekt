@@ -4,6 +4,10 @@ body {
     font-family: Arial, serif;
 }
 
+li.sanw a {
+    display: none;
+}
+
 ul.top {
     list-style-type:none;
     overflow: hidden;
@@ -95,5 +99,23 @@ p.butt {
 }
 
 @media screen and (max-width: 800px) {
+    li.top a {
+        display: none;
+    }
 
+    li.here a {
+        display: none;
+    }
+
+    li.sign a {
+        display: none;
+    }
+
+    li.sanw a {
+        font-size: 20px;
+        color: #fff7f1;
+        margin: 5px;
+        float: right;
+        text-decoration: none;
+    }
 }
