@@ -4,7 +4,7 @@ body {
     font-family: Arial, serif;
 }
 
-li.sanw a {
+li.sanw {
     display: none;
 }
 
@@ -102,7 +102,7 @@ p.butt {
         display: none;
     }
 
-    li.sanw a {
+    li.sanw {
         display: block;
         font-size: 20px;
         color: #fff7f1;
@@ -111,7 +111,7 @@ p.butt {
         text-decoration: none;
     }
 
-    li.sanw a:hover {
+    li.sanw:hover {
         color: #3d3a37;
         background-color: #fff7f1;
     }
