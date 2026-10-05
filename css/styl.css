@@ -15,7 +15,8 @@ li.sanw:hover div.drop{
 div.drop {
     top: 38px;
     left: 8px;
-    padding: 3px;
+    padding: 4px;
+    line-height: 1.3;
     display: none;
     color: #FFF6F0;
     text-decoration: none;
@@ -33,7 +34,7 @@ ul.top {
 }
 
 li.top a {
-    font-size: 20px;
+    font-size: 23px;
     color: #FFF6F0;
     margin: 5px;
     float: left;
@@ -46,7 +47,7 @@ li.top a:hover {
 }
 
 li.sign a {
-    font-size: 20px;
+    font-size: 23px;
     color: #FFF6F0;
     margin: 5px;
     float: right;
@@ -59,7 +60,7 @@ li.sign a:hover {
 }
 
 li.here a {
-    font-size: 20px;
+    font-size: 23px;
     color: #3B3837;
     background-color: #FFF6F0;
     margin: 5px;
@@ -69,8 +70,8 @@ li.here a {
 
 h1 {
     text-align: center;
-    margin: 10px;
-    font-size: 36px;
+    margin: 40px;
+    font-size: 45px;
 }
 
 div.con {
@@ -83,7 +84,8 @@ div.card p {
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
+    line-height: 1.2;
     text-align: justify;
 }
 
@@ -116,7 +118,7 @@ p.butt {
 
     li.sanw {
         display: block;
-        font-size: 20px;
+        font-size: 23px;
         color: #FFF6F0;
         margin: 5px;
         float: left;
