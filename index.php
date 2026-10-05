@@ -7,7 +7,7 @@
 </head>
 <body>
 <ul class="top">
-    <li class="sanw">▤
+    <li class="sanw">▤▤
         <div class="drop">
             <ul class="drop">
                 <li class="drophere"><a href="#">Home</a></li>
