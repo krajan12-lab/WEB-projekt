@@ -1,5 +1,5 @@
 body {
-    color: #383635;
+    color: #2E2C2C;
     background-color: #FFF6F0;
     font-family: Georgia, serif;
 }
@@ -20,14 +20,14 @@ div.drop {
     color: #FFF6F0;
     text-decoration: none;
     position: absolute;
-    background-color: #FFF6F0;
-    border: solid 2px #383635;
+    background-color: #FFFAF6;
+    border: solid 2px #3B3837;
 }
 
 ul.top {
     list-style-type:none;
     overflow: hidden;
-    background-color: #383635;
+    background-color: #3B3837;
     padding: 0;
     margin: 0;
 }
@@ -41,7 +41,7 @@ li.top a {
 }
 
 li.top a:hover {
-    color: #383635;
+    color: #3B3837;
     background-color: #FFF6F0;
 }
 
@@ -54,13 +54,13 @@ li.sign a {
 }
 
 li.sign a:hover {
-    color: #383635;
+    color: #3B3837;
     background-color: #FFF6F0;
 }
 
 li.here a {
     font-size: 20px;
-    color: #383635;
+    color: #3B3837;
     background-color: #FFF6F0;
     margin: 5px;
     float: left;
@@ -88,16 +88,16 @@ p {
 }
 
 a {
-    color: #383635;
+    color: #3B3837;
 }
 
 a:hover {
     color: #FFF6F0;
-    background-color: #383635;
+    background-color: #3B3837;
 }
 
 hr {
-    border: solid 1px #383635;
+    border: solid 1px #3B3837;
     width: 70%;
 }
 
@@ -124,7 +124,7 @@ p.butt {
     }
 
     li.sanw:hover {
-        color: #383635;
+        color: #3B3837;
         background-color: #FFF6F0;
     }
 }
