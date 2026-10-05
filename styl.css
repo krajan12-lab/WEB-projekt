@@ -18,7 +18,8 @@ div.drop {
     text-decoration: none;
     z-index: 1;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: #ffffff;
+    border: solid 2px #3d3a37;
 }
 
 ul.top {
