@@ -1,7 +1,7 @@
 body {
-    color: #3d3a37;
-    background-color: #fff7f1;
-    font-family: Arial, serif;
+    color: #383635;
+    background-color: #FFF6F0;
+    font-family: Georgia, serif;
 }
 
 li.sanw {
@@ -14,52 +14,52 @@ li.sanw:hover div.drop{
 
 div.drop {
     display: none;
-    color: #fff7f1;
+    color: #FFF6F0;
     text-decoration: none;
     z-index: 1;
     position: absolute;
     background-color: #ffffff;
-    border: solid 2px #3d3a37;
+    border: solid 2px #383635;
 }
 
 ul.top {
     list-style-type:none;
     overflow: hidden;
-    background-color: #3d3a37;
+    background-color: #383635;
     padding: 0;
     margin: 0;
 }
 
 li.top a {
     font-size: 20px;
-    color: #fff7f1;
+    color: #FFF6F0;
     margin: 5px;
     float: left;
     text-decoration: none;
 }
 
 li.top a:hover {
-    color: #3d3a37;
-    background-color: #fff7f1;
+    color: #383635;
+    background-color: #FFF6F0;
 }
 
 li.sign a {
     font-size: 20px;
-    color: #fff7f1;
+    color: #FFF6F0;
     margin: 5px;
     float: right;
     text-decoration: none;
 }
 
 li.sign a:hover {
-    color: #3d3a37;
-    background-color: #fff7f1;
+    color: #383635;
+    background-color: #FFF6F0;
 }
 
 li.here a {
     font-size: 20px;
-    color: #3d3a37;
-    background-color: #fff7f1;
+    color: #383635;
+    background-color: #FFF6F0;
     margin: 5px;
     float: left;
     text-decoration: none;
@@ -86,16 +86,16 @@ p {
 }
 
 a {
-    color: #3d3a37;
+    color: #383635;
 }
 
 a:hover {
-    color: #fff7f1;
-    background-color: #3d3a37;
+    color: #FFF6F0;
+    background-color: #383635;
 }
 
 hr {
-    border: solid 1px #3d3a37;
+    border: solid 1px #383635;
     width: 70%;
 }
 
@@ -115,14 +115,14 @@ p.butt {
     li.sanw {
         display: block;
         font-size: 20px;
-        color: #fff7f1;
+        color: #FFF6F0;
         margin: 5px;
         float: left;
         text-decoration: none;
     }
 
     li.sanw:hover {
-        color: #3d3a37;
-        background-color: #fff7f1;
+        color: #383635;
+        background-color: #FFF6F0;
     }
 }
