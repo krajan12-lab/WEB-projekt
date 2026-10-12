@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>web</title>
+    <title>Home</title>
     <link href="css/styl.css" rel="stylesheet">
 </head>
 <body>
 <ul class="top">
-    <li class="sanw">▤▤
+    <li class="sanw">▤
         <div class="drop">
             <ul class="drop">
                 <li class="drophere"><a href="#">Home</a></li>
