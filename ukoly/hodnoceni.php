@@ -1,5 +1,5 @@
 <?php
-$studentName = "Jan Novák";
+$studentName = "Jan Kratochvíle";
 echo "<h1>$studentName</h1>";
 $test1 = 75;
 $test2 = 90;
