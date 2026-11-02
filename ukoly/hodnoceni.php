@@ -2,6 +2,9 @@
 $studentName = "Jan Novák";
 echo "<h1>$studentName</h1>";
 $test1 = 75;
+$test2 = 90;
+$test3 = 60;
+
 if ($test1 >= 0 && $test1 <= 100) {
     echo "Test 1: $test1";
 } else {
@@ -9,7 +12,6 @@ if ($test1 >= 0 && $test1 <= 100) {
 }
 echo "<br>";
 
-$test2 = 90;
 if ($test2 >= 0 && $test2 <= 100) {
     echo "Test 2: $test2";
 } else {
@@ -17,7 +19,6 @@ if ($test2 >= 0 && $test2 <= 100) {
 }
 echo "<br>";
 
-$test3 = 60;
 if ($test3 >= 0 && $test3 <= 100) {
     echo "Test 3: $test3";
 } else {
@@ -29,7 +30,7 @@ echo "<hr>";
 
 if ($test1 >= 0 && $test1 <= 100 && $test2 >= 0 && $test2 <= 100 && $test3 >= 0 && $test3 <= 100) {
     $cel = $test1 + $test2 + $test3;
-    echo "Celkový počet bodů: $cel";
+    echo "Celkový počet bodů: $cel / 300";
     echo "<br>";
     $prum = $cel / 3;
     echo "Průměrný počet bodů: $prum";
