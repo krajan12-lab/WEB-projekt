@@ -14,8 +14,8 @@ li.sanw:hover div.drop{
 }
 
 div.drop {
-    top: 42px;
-    left: 4px;
+    top: 38px;
+    left: 0px;
     padding: 4px;
     line-height: 1.3;
     display: none;
@@ -31,7 +31,7 @@ ul.top {
     overflow: hidden;
     background-color: #3B3837;
     padding: 0;
-    margin: 0 !important;
+    margin: 0;
 }
 
 li.top a {
@@ -84,7 +84,6 @@ div.con {
     width: 72%;
     margin-left: 10%;
     margin-top: 0 !important;
-    height: 80%;
     border-radius: 10px;
 }
 
@@ -137,7 +136,7 @@ p.butt {
     li.sanw {
         display: block;
         padding: 3px;
-        font-size: 25px;
+        font-size: 23px;
         color: #FFF6F0;
         margin: 5px;
         float: left;
@@ -147,5 +146,14 @@ p.butt {
     li.sanw:hover {
         color: #3B3837;
         background-color: #FFF6F0;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    div.con {
+        background-color: #FFF6F0;
+        padding: 2% 6%;
+        width: 76%;
+        margin-left: 6%;
     }
 }
