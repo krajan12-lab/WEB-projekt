@@ -35,7 +35,8 @@ ul.top {
 }
 
 li.top a {
-    font-size: 23px;
+    padding: 3px;
+    font-size: 25px;
     color: #FFF6F0;
     margin: 5px;
     float: left;
@@ -48,7 +49,8 @@ li.top a:hover {
 }
 
 li.sign a {
-    font-size: 23px;
+    padding: 3px;
+    font-size: 25px;
     color: #FFF6F0;
     margin: 5px;
     float: right;
@@ -61,7 +63,8 @@ li.sign a:hover {
 }
 
 li.here a {
-    font-size: 23px;
+    padding: 3px;
+    font-size: 25px;
     color: #3B3837;
     background-color: #FFF6F0;
     margin: 5px;
@@ -115,6 +118,14 @@ p.butt {
 }
 
 @media screen and (max-width: 700px) {
+
+    div.con {
+        background-color: #FFF6F0;
+        padding: 6%;
+        width: 78%;
+        margin-left: 4%;
+    }
+
     li.top a {
         display: none;
     }
@@ -125,7 +136,8 @@ p.butt {
 
     li.sanw {
         display: block;
-        font-size: 23px;
+        padding: 3px;
+        font-size: 25px;
         color: #FFF6F0;
         margin: 5px;
         float: left;
@@ -135,5 +147,12 @@ p.butt {
     li.sanw:hover {
         color: #3B3837;
         background-color: #FFF6F0;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+
+    div.con {
+        padding: 2% 4% 4%;
     }
 }
