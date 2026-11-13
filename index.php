@@ -22,7 +22,6 @@
     <li class="sign"><a href="#">Sign up</a></li>
 </ul>
 
-<br>
 <div class="con">
     <h1>Jan Kratochvíle</h1>
 

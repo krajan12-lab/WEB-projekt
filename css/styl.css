@@ -15,7 +15,7 @@ li.sanw:hover div.drop{
 
 div.drop {
     top: 38px;
-    left: 0px;
+    left: 0;
     padding: 4px;
     line-height: 1.3;
     display: none;
@@ -83,7 +83,7 @@ div.con {
     padding: 1% 4%;
     width: 72%;
     margin-left: 10%;
-    margin-top: 0 !important;
+    margin-top: 20px;
     border-radius: 10px;
 }
 
@@ -114,6 +114,16 @@ hr {
 
 p.butt {
     text-align: center;
+}
+
+@media screen and (max-width: 650px) {
+    div.con {
+        padding: 1% 5%;
+        margin-left: 0 !important;
+        margin-top: 0 !important;
+        border-radius: 0;
+        width: 88% !important;
+    }
 }
 
 @media screen and (max-width: 800px) {
