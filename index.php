@@ -29,7 +29,7 @@
         <br><br><a href="#">link1</a>
     </p>
 
-    <img src="" alt="picture">
+    <img alt="picture" src="img/picture.png">
 
     <br>
 
