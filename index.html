@@ -9,7 +9,7 @@
 <ul class="top">
     <li class="sanw">▤
         <div class="drop">
-            <ul class="drop" id="drop">
+            <ul class="drop">
                 <li class="drophere"><a href="#">Home</a></li>
                 <li class="drop"><a href="#">Top</a></li>
                 <li class="drop"><a href="#">Other</a></li>
