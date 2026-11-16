@@ -7,9 +7,9 @@
 </head>
 <body>
 <ul class="top">
-    <li class="sanw">▤
+    <li class="sanw"><button id="sanw">▤</button>
         <div class="drop">
-            <ul class="drop">
+            <ul class="drop" id="drop">
                 <li class="drophere"><a href="#">Home</a></li>
                 <li class="drop"><a href="#">Top</a></li>
                 <li class="drop"><a href="#">Other</a></li>
