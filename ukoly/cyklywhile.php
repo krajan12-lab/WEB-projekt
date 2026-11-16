@@ -25,10 +25,9 @@ do {
 <h1>Úkol 3</h1>
 
 <?php
-$number = 1;
-while ($number<=5) {
-    echo $number;
-    echo "<br>";
-    $number++;
+$i = 1;
+while ($i <= 5) {
+echo "$i<br>";
+$i++; //chybělo
 }
 ?>
